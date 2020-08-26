@@ -1,0 +1,26 @@
+                            测试说明
+
+   1.建立一个user的数据库
+
+   2.里面建立一个info表单 这是登录和注册的表单
+
+   表单字段如下：
+         names  
+         password   
+ 
+   3 .在建立一个cart表单  这是购物车信息表单
+
+   表单字段如下：
+         product_id 
+         product_img 
+         product_name 
+         product_price 
+         product_num 
+         product_spec 
+         product_vender
+         product_shop
+
+
+
+
+
